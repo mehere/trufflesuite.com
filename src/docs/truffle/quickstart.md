@@ -77,6 +77,8 @@ Once this operation is completed, you'll now have a project structure with the f
 
 ## Testing
 
+1. Start a test network:
+
 1. On a terminal, run the Solidity test:
 
    ```shell
